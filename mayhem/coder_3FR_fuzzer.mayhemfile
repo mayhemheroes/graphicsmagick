@@ -1,0 +1,4 @@
+project: PROJECT
+target: coder_3FR_fuzzer
+cmds:
+- cmd: /out/coder_3FR_fuzzer
